@@ -1,17 +1,21 @@
 # AI-Powered Resume Analyzer & Job Matcher
 
-A web application that analyzes a resume and compares it with a job description using Natural Language Processing and Sentence Transformers.
+An AI-powered web application that analyzes resumes and matches them with job descriptions using Natural Language Processing and Sentence Transformers.
 
-## Features
+## 🚀 Live Demo
+
+Try the application here: [AI Resume Analyzer](https://ai-resume-analyzer-rushi.streamlit.app/)
+
+## ✨ Features
 
 - Upload a resume in PDF format
 - Extract resume text, skills, education, and experience keywords
-- Compare the resume with a job description
+- Compare a resume with a job description
 - Calculate semantic similarity between the resume and job description
-- Identify matching and missing skills
+- Identify matching skills and missing skills
 - Download an analysis report
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - Python
 - Streamlit
@@ -19,9 +23,9 @@ A web application that analyzes a resume and compares it with a job description 
 - Scikit-learn
 - Sentence Transformers
 
-## Installation
+## ⚙️ Installation
 
-1. Clone this repository:
+1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/AI_Resume_Analyzer.git
+   git clone https://github.com/yeddularushi-022/ai-resume-analyzer.git
